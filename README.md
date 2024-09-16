@@ -58,19 +58,19 @@ All rights reserved to their respective owners.
 ### GitHub
 
 You can get the latest release from here:
-https://github.com/JustBorgar/Cr-me-Engine/releases
+https://github.com/JustBorgar/Creme-Engine/releases
 
 ### DevForum
 
 You can learn more about the project here:
 https://devforum.roblox.com/t/-/2304088
 
-<a href="https://github.com/JustBorgar/Cr-me-Engine/releases">
-    <img alt="Releases" src="https://img.shields.io/github/v/release/JustBorgar/Cr-me-Engine">
+<a href="https://github.com/JustBorgar/Creme-Engine/releases">
+    <img alt="Releases" src="https://img.shields.io/github/v/release/JustBorgar/Creme-Engine">
     </img>
 </a>
 
-<a href="https://github.com/JustBorgar/Cr-me-Engine">
-    <img alt="" src="https://img.shields.io/github/downloads/JustBorgar/Cr-me-Engine/total">
+<a href="https://github.com/JustBorgar/Creme-Engine">
+    <img alt="" src="https://img.shields.io/github/downloads/JustBorgar/Creme-Engine/total">
     </img>
 </a>
