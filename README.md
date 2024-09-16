@@ -19,7 +19,7 @@ CE is the culmination of all the experience we've gained through the years, and 
 * Clean, scalable, and strictly typed modular codebase.
 * Compact and highly customizable modern EH2018 inspired moveset.
 * Reliable, easy-to-use collectibles system managed by a ProfileService database.
-* Modular & highly versatile power-ups system inspired by the good old school classics.
+* Modular & highly versatile power-ups system inspired by the good old classics.
 * Several built-in platformer mechanics, utilities and game components such as a Ragdoll system and a FE2-like swimming system.
 
 And we're just getting started, we're hoping that with your support we can bring you LOTS of additional features in the near future.
