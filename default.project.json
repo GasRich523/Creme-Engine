@@ -1,0 +1,14 @@
+{
+  "emitLegacyScripts": false,
+  "name": "project",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "$ignoreUnknownInstances": true,
+      "Code": {
+	      "$path": "src/Code"
+      }
+    }
+  }
+}
