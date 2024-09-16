@@ -271,6 +271,13 @@ Waits for player's data to load
 
 local function DataLoaded(Player: Player, Data: Database.Data): ()
 	
+	--Prevents errors on unpublished places
+	local Level = FindLevel(game.PlaceId, Data)
+	if not Level then
+		warn("Level not found in the database, make sure you are working with a pulished place!")
+		return
+	end
+
 	--Setup Leaderstats
 	SetupLeaderstats(Player, Data)
 	
