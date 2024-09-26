@@ -49,6 +49,7 @@ For external libraries, refer to their corresponding license.
 Créme Engine makes use of the following external resources:
 * ProfileService by loleris
 * RbxUtil by Sleitnick
+* CameraShaker by Sleitnick
 * Realism by MaximumADHD
 * TopbarPlus by ForeverHD
 
